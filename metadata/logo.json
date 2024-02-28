@@ -1,0 +1,27 @@
+{
+    "name": "NFT logo",
+    "description": "This is my first logo desgin for NFT",
+    "image" :"https://ipfs.io/ipfs/QmWVCu2MQJB5q2zZSDiVGXRSEQsiBySLSZWoYRjp1ockkh",
+    "attributes": [
+        {
+            "trait_type" :"Speed",
+            "value" : 6,
+            "max_value": 10
+        },
+        {
+            "trait_type" :"Control",
+            "value" : 9,
+            "max_value": 10
+        },
+        {
+            "trait_type" :"acceleration",
+            "value" : 7,
+            "max_value": 10
+        },
+        {
+            "trait_type" :"Nitro",
+            "value" : 2,
+            "max_value": 10
+        }
+    ]
+}
